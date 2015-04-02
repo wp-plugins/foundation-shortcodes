@@ -1,11 +1,10 @@
 <?php
-
 /*
 Plugin Name: Foundation Shortcodes
 Plugin URI: http://www.oyova.com
-Description: Craft Foundation markup, including rows and columns, using WordPress shortcodes.
-Author: Oyova, Edward R. Jenkins
-Version: 1.0.4
+Description: Craft Foundation markup, including rows and columns, using WordPress shortcodes. Requires a theme built with Foundation 5.
+Author: Oyova
+Version: 1.0.5
 Author URI: http://www.oyova.com
 Text Domain: foundation-shortcodes
  */
