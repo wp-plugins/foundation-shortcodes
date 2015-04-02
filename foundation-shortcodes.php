@@ -4,6 +4,7 @@ Plugin Name: Foundation Shortcodes
 Plugin URI: http://www.oyova.com
 Description: Craft Foundation markup, including rows and columns, using WordPress shortcodes. Requires a theme built with Foundation 5.
 Author URI: http://www.oyova.com
+Version: 1.0.6
 Text Domain: foundation-shortcodes
  */
 
